@@ -1,2 +1,5 @@
 # ALV
-A demo repository for a binary search tree with a balanced condition (AVL tree).
+
+The main structure is defined in `BinaryTree.hpp`.
+
+An example is provided in `main.cpp`.
